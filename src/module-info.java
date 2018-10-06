@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kentmei
+ *
+ */
+module hackRU {
+}
